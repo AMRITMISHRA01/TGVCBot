@@ -12,7 +12,7 @@
 ![LOGO](https://telegra.ph/file/e9dd76aadf0b500e02738.jpg)
 
 p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/Xkrishmishra/userlx">
+<a href="https://heroku.com/deploy?template=https://github.com/AMRITMISHRA01/TGVCBot.git">
 <img src="assets/deploytoheroku.svg" alt="Deploy to Heroku"></a>
 </p>
 
